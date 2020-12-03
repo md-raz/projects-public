@@ -6,6 +6,7 @@ ESP32-WROOM (XTENSA) based “smart” power strip. Device connects to WiFi netw
 ## What I Primarily Worked On:
 Designed the schematic, PCB design, and then fabricated the circuit. Programmed the processor using Arduino IDE (C++). Thoroughly documented creation of the device. Assembled and built device based on developed schematics.
 Further information about the build process can be found at <code> https://www.botfactory.co/blog/what-s-new-at-botfactory-1/post/creating-a-smart-outlet-121 </code> 
+
 ![Image 2 Of Power Strip](https://github.com/md-raz/images/blob/main/ir_attachment_88041.jpeg)
 
 ## Disclaimer
